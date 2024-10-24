@@ -1,0 +1,18 @@
+#tarjeta {
+    display: flex;
+    flex-direction: row;
+    width: 80%;
+    padding: 50px;
+    background-color: lightblue;
+}
+
+#izquierda {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#icono {
+    height: 200px;
+}
